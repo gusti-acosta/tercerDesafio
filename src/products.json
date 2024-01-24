@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "title": "ps6",
+    "description": "jdashjkdajhksdhjksasdjhkjkah",
+    "price": 22229.99,
+    "thumbnail": "imagen.jpg",
+    "code": "SP2",
+    "stock": 20
+  },
+  {
+    "id": 1,
+    "title": "ps5",
+    "description": "xcdvxscscjkajkcajkjkdjkdjahjkdj",
+    "price": 599.99,
+    "thumbnail": "image.jpg",
+    "code": "FP1",
+    "stock": 10
+  }
+]
